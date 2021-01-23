@@ -1,0 +1,6 @@
+--- git notes --- 
+git clone -- copy repository to local machine from the git hub web site
+git status -- check the current status
+git add --    preparatory step for adding files to local repository
+git commit --- adds files to local repository
+git push -- synchronize local repository to github website
