@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# proj files processings
+*.vs
+*.vcxproj.*
+debug
+Debug
+release
+Release
+*.log
+*.tlog
+*.ipch
+*.db
+
