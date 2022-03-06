@@ -1,0 +1,6 @@
+
+
+20220306
+-- go out of comfort zone -- 2 action which are out of your comfort zone
+-- puzzle -- add to github
+-- install vscode in wsl ubuntu
